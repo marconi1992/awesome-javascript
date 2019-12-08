@@ -10,3 +10,7 @@ Personal curated content about JavaScript
 ## Quizzes
 
 - [JavaScript Advanced Questions](https://github.com/lydiahallie/javascript-questions)
+
+## Other Awesome Lists
+
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
